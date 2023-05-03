@@ -5,8 +5,6 @@
 
 ### <div align="center">I'm Cong, a full-time Web Developer 👨‍💻🚀</div>  
   
-
-- 🔭 I’m currently working on [BEPLUS Co., Ltd](https://beplusthemes.com)  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
