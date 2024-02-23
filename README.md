@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="max-width: 400px;width: 400px" />
-</div>  
-  
+
 
 ### <div align="center">I'm Cong, a full-time Web Developer 👨‍💻🚀</div>  
   
